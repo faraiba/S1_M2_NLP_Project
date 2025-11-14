@@ -42,7 +42,7 @@ clean network structure
 We restricted the dataset to:
 
 All speeches delivered in 2023
-→ narrowed to a random sample of ~1000 speeches for LLM extraction.
+→ narrowed to a random sample of ~500 speeches for LLM extraction.
 
 This preserves:
 
