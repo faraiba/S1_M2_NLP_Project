@@ -1,0 +1,424 @@
+source,target,relation,weight,source_type,target_type
+Achille Variati,circular economy,Mentions_Topic,1,speaker,topic
+Achille Variati,critical raw materials,Mentions_Topic,1,speaker,topic
+Achille Variati,raw materials recycling,Mentions_Topic,1,speaker,topic
+Adam Jarubas,energy crisis,Mentions_Topic,1,speaker,topic
+Adam Jarubas,fertilizer production,Mentions_Topic,1,speaker,topic
+Adam Jarubas,food security,Mentions_Topic,1,speaker,topic
+Alexander Bernhuber,livestock protection,Mentions_Topic,1,speaker,topic
+Alexander Bernhuber,wolf management,Mentions_Topic,1,speaker,topic
+Alexander Bernhuber,wolf population,Mentions_Topic,1,speaker,topic
+Alexandr Vondra,agriculture,Mentions_Topic,1,speaker,topic
+Alexandr Vondra,decarbonization,Mentions_Topic,1,speaker,topic
+Alexandr Vondra,nature restoration,Mentions_Topic,1,speaker,topic
+Alfred Sant,eurozone fiscal rules,Mentions_Topic,1,speaker,topic
+Alfred Sant,public investment,Mentions_Topic,1,speaker,topic
+Alfred Sant,stability and growth pact,Mentions_Topic,1,speaker,topic
+Anders Vistisen,eu regulation,Mentions_Topic,1,speaker,topic
+Anders Vistisen,labor market,Mentions_Topic,1,speaker,topic
+Anders Vistisen,national governance,Mentions_Topic,1,speaker,topic
+Andrea Bocskor,democracy,Mentions_Topic,1,speaker,topic
+Andrea Bocskor,human rights,Mentions_Topic,1,speaker,topic
+Andrea Bocskor,minority rights,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,bulgarian community autonomy,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,energy security,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,minority rights,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,moldova eu path,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,nuclear energy,Mentions_Topic,1,speaker,topic
+Angel Dzhambazki,renewable energy,Mentions_Topic,1,speaker,topic
+Anna Bonfrisco,connectivity,Mentions_Topic,1,speaker,topic
+Anna Bonfrisco,european connectivity,Mentions_Topic,1,speaker,topic
+Anna Bonfrisco,infrastructure,Mentions_Topic,1,speaker,topic
+Aurore Lalucq,european budget,Mentions_Topic,1,speaker,topic
+Aurore Lalucq,european integration,Mentions_Topic,1,speaker,topic
+Aurore Lalucq,taxation,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,corruption in eu,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,eu corruption,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,hungary-eu conflict,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,institutional accountability,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,parliamentary lobbying,Mentions_Topic,1,speaker,topic
+Balázs Hidvéghi,rule of law,Mentions_Topic,1,speaker,topic
+Bartosz Arłukowicz,environmental disaster,Mentions_Topic,1,speaker,topic
+Bartosz Arłukowicz,government response,Mentions_Topic,1,speaker,topic
+Bartosz Arłukowicz,river pollution,Mentions_Topic,1,speaker,topic
+Bert-Jan Ruissen,agricultural regulation,Mentions_Topic,1,speaker,topic
+Bert-Jan Ruissen,agriculture resilience,Mentions_Topic,1,speaker,topic
+Bert-Jan Ruissen,food security,Mentions_Topic,1,speaker,topic
+Bronis Ropė,global food security,Mentions_Topic,1,speaker,topic
+Bronis Ropė,russian aggression,Mentions_Topic,1,speaker,topic
+Bronis Ropė,ukrainian grain export,Mentions_Topic,1,speaker,topic
+Carlo Fidanza,border control,Mentions_Topic,1,speaker,topic
+Carlo Fidanza,migration management,Mentions_Topic,1,speaker,topic
+Carlo Fidanza,sea rescue operations,Mentions_Topic,1,speaker,topic
+Carmen Avram,commission policy,Mentions_Topic,1,speaker,topic
+Carmen Avram,european agriculture,Mentions_Topic,1,speaker,topic
+Carmen Avram,farmer support,Mentions_Topic,1,speaker,topic
+Charles Goerens,debate procedures,Mentions_Topic,1,speaker,topic
+Charles Goerens,exclusion from debate,Mentions_Topic,1,speaker,topic
+Charlie Weimers,labor protests,Mentions_Topic,1,speaker,topic
+Charlie Weimers,work-family balance,Mentions_Topic,1,speaker,topic
+Charlie Weimers,working time directive,Mentions_Topic,1,speaker,topic
+Christel Schaldemose,digital transition,Mentions_Topic,1,speaker,topic
+Christel Schaldemose,european internal market,Mentions_Topic,1,speaker,topic
+Christel Schaldemose,green transition,Mentions_Topic,1,speaker,topic
+Christophe Hansen,eu-china relations,Mentions_Topic,1,speaker,topic
+Christophe Hansen,supply chains,Mentions_Topic,1,speaker,topic
+Christophe Hansen,trade agreements,Mentions_Topic,1,speaker,topic
+Clare Daly,economic policy,Mentions_Topic,1,speaker,topic
+Clare Daly,eu foreign policy,Mentions_Topic,1,speaker,topic
+Clare Daly,foreign direct investment,Mentions_Topic,1,speaker,topic
+Clare Daly,human rights,Mentions_Topic,1,speaker,topic
+Clare Daly,migration,Mentions_Topic,1,speaker,topic
+Clare Daly,public services,Mentions_Topic,1,speaker,topic
+Claude Gruffat,banking crisis,Mentions_Topic,1,speaker,topic
+Claude Gruffat,banking regulation,Mentions_Topic,1,speaker,topic
+Claude Gruffat,financial deregulation,Mentions_Topic,1,speaker,topic
+Cyrus Engerer,environmental protection,Mentions_Topic,1,speaker,topic
+Cyrus Engerer,plastic waste export,Mentions_Topic,1,speaker,topic
+Cyrus Engerer,waste management,Mentions_Topic,1,speaker,topic
+César Luena,judicial council renewal,Mentions_Topic,1,speaker,topic
+César Luena,political corruption,Mentions_Topic,1,speaker,topic
+César Luena,rule of law,Mentions_Topic,1,speaker,topic
+Damian Boeselager,eu financial integration,Mentions_Topic,1,speaker,topic
+Damian Boeselager,european debt instrument,Mentions_Topic,1,speaker,topic
+Damian Boeselager,post-pandemic recovery,Mentions_Topic,1,speaker,topic
+Danuta Maria Hübner,cross-border payments,Mentions_Topic,1,speaker,topic
+Danuta Maria Hübner,digital currency regulation,Mentions_Topic,1,speaker,topic
+Danuta Maria Hübner,digital euro,Mentions_Topic,1,speaker,topic
+Didier Reynders,criminal code reform,Mentions_Topic,1,speaker,topic
+Didier Reynders,judicial independence,Mentions_Topic,1,speaker,topic
+Didier Reynders,rule of law,Mentions_Topic,1,speaker,topic
+Dimitrios Papadimoulis,council position,Mentions_Topic,1,speaker,topic
+Dimitrios Papadimoulis,first reading,Mentions_Topic,1,speaker,topic
+Dimitrios Papadimoulis,parliamentary deadline,Mentions_Topic,1,speaker,topic
+Dita Charanzová,elections,Mentions_Topic,1,speaker,topic
+Dita Charanzová,guatemala,Mentions_Topic,1,speaker,topic
+Dita Charanzová,rule of law,Mentions_Topic,1,speaker,topic
+Dita Charanzová,situation in sudan,Mentions_Topic,1,speaker,topic
+Dita Charanzová,sudan,Mentions_Topic,1,speaker,topic
+Dolors Montserrat,democracy,Mentions_Topic,1,speaker,topic
+Dolors Montserrat,rule of law,Mentions_Topic,1,speaker,topic
+Dolors Montserrat,secessionism,Mentions_Topic,1,speaker,topic
+Dominique Bilde,corporate lobbying,Mentions_Topic,1,speaker,topic
+Dominique Bilde,labour rights,Mentions_Topic,1,speaker,topic
+Dominique Bilde,political transparency,Mentions_Topic,1,speaker,topic
+Domènec Ruiz Devesa,human rights,Mentions_Topic,1,speaker,topic
+Domènec Ruiz Devesa,political prisoners,Mentions_Topic,1,speaker,topic
+Domènec Ruiz Devesa,russia sanctions,Mentions_Topic,1,speaker,topic
+Dorien Rookmaker,economic development,Mentions_Topic,1,speaker,topic
+Dorien Rookmaker,excessive regulation,Mentions_Topic,1,speaker,topic
+Dorien Rookmaker,infrastructure investments,Mentions_Topic,1,speaker,topic
+Edina Tóth,economic development,Mentions_Topic,1,speaker,topic
+Edina Tóth,european competitiveness,Mentions_Topic,1,speaker,topic
+Edina Tóth,european single market,Mentions_Topic,1,speaker,topic
+Elena Lizzi,directive review,Mentions_Topic,1,speaker,topic
+Elena Lizzi,european business committees,Mentions_Topic,1,speaker,topic
+Elena Lizzi,social dialogue,Mentions_Topic,1,speaker,topic
+Elisa Ferreira,activist detention,Mentions_Topic,1,speaker,topic
+Elisa Ferreira,human rights in azerbaijan,Mentions_Topic,1,speaker,topic
+Elisa Ferreira,rule of law,Mentions_Topic,1,speaker,topic
+Elisabetta Gualmini,anti-immigrant politics,Mentions_Topic,1,speaker,topic
+Elisabetta Gualmini,asylum migration,Mentions_Topic,1,speaker,topic
+Elisabetta Gualmini,migrant rescue,Mentions_Topic,1,speaker,topic
+Emmanouil Fragkos,disaster prevention,Mentions_Topic,1,speaker,topic
+Emmanouil Fragkos,disaster recovery,Mentions_Topic,1,speaker,topic
+Emmanouil Fragkos,european funding,Mentions_Topic,1,speaker,topic
+Ernest Urtasun,death penalty,Mentions_Topic,1,speaker,topic
+Ernest Urtasun,human rights violations,Mentions_Topic,1,speaker,topic
+Ernest Urtasun,iran protests,Mentions_Topic,1,speaker,topic
+Eugen Tomac,blockchain technology,Mentions_Topic,1,speaker,topic
+Eugen Tomac,cryptocurrency regulation,Mentions_Topic,1,speaker,topic
+Eugen Tomac,financial crime,Mentions_Topic,1,speaker,topic
+Evelyn Regner,debate rules,Mentions_Topic,1,speaker,topic
+Evelyn Regner,meeting management,Mentions_Topic,1,speaker,topic
+Evelyn Regner,one-minute statements,Mentions_Topic,1,speaker,topic
+Evelyn Regner,parliamentary procedure,Mentions_Topic,1,speaker,topic
+Evelyn Regner,political issues,Mentions_Topic,1,speaker,topic
+Evelyn Regner,speaking time,Mentions_Topic,1,speaker,topic
+Evin Incir,human rights,Mentions_Topic,1,speaker,topic
+Evin Incir,lgbtq+ persecution,Mentions_Topic,1,speaker,topic
+Evin Incir,lgbtq+ rights,Mentions_Topic,1,speaker,topic
+Ewa Kopacz,closing debate,Mentions_Topic,1,speaker,topic
+Ewa Kopacz,vote scheduling,Mentions_Topic,1,speaker,topic
+Ewa Kopacz,voting,Mentions_Topic,1,speaker,topic
+Fabio Massimo Castaldo,bank failures,Mentions_Topic,1,speaker,topic
+Fabio Massimo Castaldo,banking regulation,Mentions_Topic,1,speaker,topic
+Fabio Massimo Castaldo,interest rates,Mentions_Topic,1,speaker,topic
+Franc Bogovič,energy transition,Mentions_Topic,1,speaker,topic
+Franc Bogovič,european energy policy,Mentions_Topic,1,speaker,topic
+Franc Bogovič,nuclear energy,Mentions_Topic,1,speaker,topic
+François-Xavier Bellamy,human rights violations,Mentions_Topic,1,speaker,topic
+François-Xavier Bellamy,humanitarian crisis,Mentions_Topic,1,speaker,topic
+François-Xavier Bellamy,nagorno-karabakh blockade,Mentions_Topic,1,speaker,topic
+Gabriele Bischoff,digitalization,Mentions_Topic,1,speaker,topic
+Gabriele Bischoff,green transition,Mentions_Topic,1,speaker,topic
+Gabriele Bischoff,social rights,Mentions_Topic,1,speaker,topic
+Georgios Kyrtsos,authoritarian rule,Mentions_Topic,1,speaker,topic
+Georgios Kyrtsos,democratic backsliding,Mentions_Topic,1,speaker,topic
+Georgios Kyrtsos,political repression,Mentions_Topic,1,speaker,topic
+Gunnar Beck,eu fund control,Mentions_Topic,1,speaker,topic
+Gunnar Beck,eu fund fraud,Mentions_Topic,1,speaker,topic
+Gunnar Beck,lack of transparency,Mentions_Topic,1,speaker,topic
+Gunnar Beck,political corruption,Mentions_Topic,1,speaker,topic
+Gunnar Beck,tax evasion,Mentions_Topic,1,speaker,topic
+Gwendoline Delbos-Corfield,corruption fight,Mentions_Topic,1,speaker,topic
+Gwendoline Delbos-Corfield,parliamentary integrity,Mentions_Topic,1,speaker,topic
+Gwendoline Delbos-Corfield,parliamentary transparency,Mentions_Topic,1,speaker,topic
+Heidi Hautala,abolition of political rights in venezuela,Mentions_Topic,1,speaker,topic
+Heidi Hautala,political rights,Mentions_Topic,1,speaker,topic
+Heidi Hautala,venezuela,Mentions_Topic,1,speaker,topic
+Hervé Juvin,environmental impacts,Mentions_Topic,1,speaker,topic
+Hervé Juvin,financial system reform,Mentions_Topic,1,speaker,topic
+Hervé Juvin,sustainable development,Mentions_Topic,1,speaker,topic
+Isabel García Muñoz,european rescue mission,Mentions_Topic,1,speaker,topic
+Isabel García Muñoz,maritime search and rescue,Mentions_Topic,1,speaker,topic
+Isabel García Muñoz,saving lives at sea,Mentions_Topic,1,speaker,topic
+Isabel Santos,democracy,Mentions_Topic,1,speaker,topic
+Isabel Santos,eu foreign policy,Mentions_Topic,1,speaker,topic
+Isabel Santos,eu-azerbaijan relations,Mentions_Topic,1,speaker,topic
+Isabel Santos,human rights,Mentions_Topic,2,speaker,topic
+Isabel Santos,nagorno-karabakh conflict,Mentions_Topic,1,speaker,topic
+Ivan Vilibor Sinčić,pharmaceutical industry funding,Mentions_Topic,1,speaker,topic
+Ivan Vilibor Sinčić,regulatory agency methods,Mentions_Topic,1,speaker,topic
+Ivan Vilibor Sinčić,scientific fraud,Mentions_Topic,1,speaker,topic
+Izaskun Bilbao Barandica,attacks on democracy,Mentions_Topic,1,speaker,topic
+Izaskun Bilbao Barandica,political extremism,Mentions_Topic,1,speaker,topic
+Izaskun Bilbao Barandica,strengthening democracy,Mentions_Topic,1,speaker,topic
+Jaak Madison,following rules,Mentions_Topic,1,speaker,topic
+Jaak Madison,migration,Mentions_Topic,1,speaker,topic
+Jaak Madison,population decline,Mentions_Topic,1,speaker,topic
+Jaak Madison,rules,Mentions_Topic,1,speaker,topic
+Jaak Madison,sensible rules,Mentions_Topic,1,speaker,topic
+Jadwiga Wiśniewska,china dependence,Mentions_Topic,1,speaker,topic
+Jadwiga Wiśniewska,climate and energy policy,Mentions_Topic,1,speaker,topic
+Jadwiga Wiśniewska,european economy,Mentions_Topic,1,speaker,topic
+Janez Lenarčič,civil protection,Mentions_Topic,1,speaker,topic
+Janez Lenarčič,disaster resilience,Mentions_Topic,1,speaker,topic
+Janez Lenarčič,volunteer firefighters,Mentions_Topic,1,speaker,topic
+Janusz Wojciechowski,croatia,Mentions_Topic,1,speaker,topic
+Janusz Wojciechowski,food prices,Mentions_Topic,1,speaker,topic
+Janusz Wojciechowski,inflation,Mentions_Topic,1,speaker,topic
+Janusz Wojciechowski,information review,Mentions_Topic,1,speaker,topic
+Javi López,climate social fund,Mentions_Topic,1,speaker,topic
+Javi López,decarbonization,Mentions_Topic,1,speaker,topic
+Javi López,emission trading,Mentions_Topic,1,speaker,topic
+Jean-Lin Lacapelle,eu accession,Mentions_Topic,1,speaker,topic
+Jean-Lin Lacapelle,kosovo status,Mentions_Topic,1,speaker,topic
+Jean-Lin Lacapelle,western balkans,Mentions_Topic,1,speaker,topic
+Jeroen Lenaers,eu budget management,Mentions_Topic,1,speaker,topic
+Jeroen Lenaers,financial accountability,Mentions_Topic,1,speaker,topic
+Jeroen Lenaers,financial regulation,Mentions_Topic,1,speaker,topic
+Jessica Polfjärd,batteries,Mentions_Topic,1,speaker,topic
+Jessica Polfjärd,circular economy,Mentions_Topic,1,speaker,topic
+Jessica Polfjärd,european battery industry,Mentions_Topic,1,speaker,topic
+Joanna Kopcińska,drug production,Mentions_Topic,1,speaker,topic
+Joanna Kopcińska,drug shortages,Mentions_Topic,1,speaker,topic
+Joanna Kopcińska,patient safety,Mentions_Topic,1,speaker,topic
+Johan Van Overtveldt,budget union,Mentions_Topic,1,speaker,topic
+Johan Van Overtveldt,economic stability,Mentions_Topic,1,speaker,topic
+Johan Van Overtveldt,eu budget,Mentions_Topic,1,speaker,topic
+Jorge Buxadé Villalba,2030 agenda,Mentions_Topic,1,speaker,topic
+Jorge Buxadé Villalba,elite control,Mentions_Topic,1,speaker,topic
+Jorge Buxadé Villalba,individual freedom,Mentions_Topic,1,speaker,topic
+Josep Borrell Fontelles,democratic governance,Mentions_Topic,1,speaker,topic
+Josep Borrell Fontelles,human rights,Mentions_Topic,1,speaker,topic
+Josep Borrell Fontelles,peru political crisis,Mentions_Topic,1,speaker,topic
+José Manuel Fernandes,energy dependence,Mentions_Topic,1,speaker,topic
+José Manuel Fernandes,energy union,Mentions_Topic,1,speaker,topic
+José Manuel Fernandes,renewable energy,Mentions_Topic,1,speaker,topic
+Juan Fernando López Aguilar,anti-corruption strategy,Mentions_Topic,1,speaker,topic
+Juan Fernando López Aguilar,judicial independence,Mentions_Topic,1,speaker,topic
+Juan Fernando López Aguilar,rule of law,Mentions_Topic,1,speaker,topic
+Juozas Olekas,alexei navalny,Mentions_Topic,1,speaker,topic
+Juozas Olekas,human rights in russia,Mentions_Topic,1,speaker,topic
+Juozas Olekas,political prisoners,Mentions_Topic,1,speaker,topic
+Juozas Olekas,russia sanctions,Mentions_Topic,1,speaker,topic
+Juozas Olekas,ukraine eu accession,Mentions_Topic,1,speaker,topic
+Juozas Olekas,ukraine support,Mentions_Topic,1,speaker,topic
+Karlo Ressler,asylum abuse,Mentions_Topic,1,speaker,topic
+Karlo Ressler,border security,Mentions_Topic,1,speaker,topic
+Karlo Ressler,migration pressure,Mentions_Topic,1,speaker,topic
+Katarína Roth Neveďalová,eu defence policy,Mentions_Topic,1,speaker,topic
+Katarína Roth Neveďalová,joint weapons procurement,Mentions_Topic,1,speaker,topic
+Katarína Roth Neveďalová,military assistance,Mentions_Topic,1,speaker,topic
+Krzysztof Hetman,eu agricultural policies,Mentions_Topic,1,speaker,topic
+Krzysztof Hetman,farmer support,Mentions_Topic,1,speaker,topic
+Krzysztof Hetman,food production,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,convention results,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,economic regulation,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,eu cooperation,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,eu unity and diversity,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,european tax,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,european union accession,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,free market,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,hungary eu role,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,istanbul convention,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,serbia-russia relations,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,serbian nationalism,Mentions_Topic,1,speaker,topic
+Ladislav Ilčić,violence against women,Mentions_Topic,1,speaker,topic
+Lídia Pereira,cryptocurrencies,Mentions_Topic,1,speaker,topic
+Lídia Pereira,cryptocurrency regulation,Mentions_Topic,1,speaker,topic
+Lídia Pereira,digital finance,Mentions_Topic,1,speaker,topic
+Maite Pagazaurtundúa,combating corruption,Mentions_Topic,1,speaker,topic
+Maite Pagazaurtundúa,corruption,Mentions_Topic,1,speaker,topic
+Maite Pagazaurtundúa,transparency,Mentions_Topic,1,speaker,topic
+Manon Aubry,corruption prevention,Mentions_Topic,1,speaker,topic
+Manon Aubry,ethical oversight,Mentions_Topic,1,speaker,topic
+Manon Aubry,institutional integrity,Mentions_Topic,1,speaker,topic
+Manon Aubry,institutional transparency,Mentions_Topic,1,speaker,topic
+Manon Aubry,parliamentary corruption,Mentions_Topic,1,speaker,topic
+Manon Aubry,parliamentary reform,Mentions_Topic,1,speaker,topic
+Marc Tarabella,freedom of expression,Mentions_Topic,1,speaker,topic
+Marc Tarabella,journalist protection,Mentions_Topic,1,speaker,topic
+Marc Tarabella,judicial harassment,Mentions_Topic,1,speaker,topic
+Marek Belka,corporate due diligence,Mentions_Topic,1,speaker,topic
+Marek Belka,environmental protection,Mentions_Topic,1,speaker,topic
+Marek Belka,labor rights,Mentions_Topic,1,speaker,topic
+Margaritis Schinas,covid-19 response,Mentions_Topic,1,speaker,topic
+Margaritis Schinas,pandemic transparency,Mentions_Topic,1,speaker,topic
+Margaritis Schinas,vaccine safety,Mentions_Topic,1,speaker,topic
+Maria-Manuel Leitão-Marques,crisis management,Mentions_Topic,1,speaker,topic
+Maria-Manuel Leitão-Marques,internal market,Mentions_Topic,1,speaker,topic
+Maria-Manuel Leitão-Marques,supply chain resilience,Mentions_Topic,1,speaker,topic
+Mario Furore,digital transformation,Mentions_Topic,1,speaker,topic
+Mario Furore,economic inequality,Mentions_Topic,1,speaker,topic
+Mario Furore,middle class crisis,Mentions_Topic,1,speaker,topic
+Marisa Matias,agricultural emissions,Mentions_Topic,1,speaker,topic
+Marisa Matias,environmental protection,Mentions_Topic,1,speaker,topic
+Marisa Matias,industrial emissions,Mentions_Topic,1,speaker,topic
+Mazaly Aguilar,agricultural sector,Mentions_Topic,1,speaker,topic
+Mazaly Aguilar,geographical indications,Mentions_Topic,1,speaker,topic
+Mazaly Aguilar,regulatory reform,Mentions_Topic,1,speaker,topic
+Michael Bloss,automotive industry,Mentions_Topic,1,speaker,topic
+Michael Bloss,combustion engine ban,Mentions_Topic,1,speaker,topic
+Michael Bloss,e-mobility,Mentions_Topic,1,speaker,topic
+Michaela Šojdrová,freedom of expression,Mentions_Topic,1,speaker,topic
+Michaela Šojdrová,press freedom,Mentions_Topic,1,speaker,topic
+Michaela Šojdrová,press freedom in algeria,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,budgetary discipline,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,budgetary reform,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,eu debt,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,eu fiscal rules,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,eu funding,Mentions_Topic,1,speaker,topic
+Michiel Hoogeveen,public finances,Mentions_Topic,1,speaker,topic
+Miguel Urbán Crespo,blasphemy laws,Mentions_Topic,1,speaker,topic
+Miguel Urbán Crespo,freedom of religion,Mentions_Topic,1,speaker,topic
+Miguel Urbán Crespo,religious persecution,Mentions_Topic,1,speaker,topic
+Milan Uhrík,ai regulation,Mentions_Topic,1,speaker,topic
+Milan Uhrík,ai risks,Mentions_Topic,1,speaker,topic
+Milan Uhrík,artificial intelligence,Mentions_Topic,1,speaker,topic
+Milan Uhrík,public fear,Mentions_Topic,1,speaker,topic
+Milan Uhrík,sending soldiers,Mentions_Topic,1,speaker,topic
+Milan Uhrík,war in ukraine,Mentions_Topic,1,speaker,topic
+Nacho Sánchez Amor,electoral observation,Mentions_Topic,1,speaker,topic
+Nacho Sánchez Amor,ngo transparency,Mentions_Topic,1,speaker,topic
+Nacho Sánchez Amor,parliamentary integrity,Mentions_Topic,1,speaker,topic
+Nicola Beer,parliamentary procedure,Mentions_Topic,1,speaker,topic
+Nicola Beer,parliamentary session,Mentions_Topic,1,speaker,topic
+Nicolas Schmit,minimum income,Mentions_Topic,1,speaker,topic
+Nicolas Schmit,poverty reduction,Mentions_Topic,1,speaker,topic
+Nicolas Schmit,social inclusion,Mentions_Topic,1,speaker,topic
+Nicolás González Casares,clean energy,Mentions_Topic,1,speaker,topic
+Nicolás González Casares,consumer protection,Mentions_Topic,1,speaker,topic
+Nicolás González Casares,electricity market reform,Mentions_Topic,1,speaker,topic
+Othmar Karas,animal testing,Mentions_Topic,1,speaker,topic
+Othmar Karas,animal welfare,Mentions_Topic,1,speaker,topic
+Othmar Karas,children deported from ukraine,Mentions_Topic,1,speaker,topic
+Othmar Karas,cosmetics regulation,Mentions_Topic,1,speaker,topic
+Othmar Karas,eu-tunisia agreement,Mentions_Topic,1,speaker,topic
+Othmar Karas,external migration policy,Mentions_Topic,1,speaker,topic
+Othmar Karas,istgh arrest order,Mentions_Topic,1,speaker,topic
+Othmar Karas,vladimir putin,Mentions_Topic,1,speaker,topic
+Patryk Jaki,european autonomy,Mentions_Topic,1,speaker,topic
+Patryk Jaki,european security,Mentions_Topic,1,speaker,topic
+Patryk Jaki,geopolitical relations,Mentions_Topic,1,speaker,topic
+Pedro Silva Pereira,floor allocation,Mentions_Topic,1,speaker,topic
+Pedro Silva Pereira,meeting procedures,Mentions_Topic,1,speaker,topic
+Pedro Silva Pereira,speaker list management,Mentions_Topic,1,speaker,topic
+Peter Kullgren,article 7 procedure,Mentions_Topic,1,speaker,topic
+Peter Kullgren,eu fundamental values,Mentions_Topic,1,speaker,topic
+Peter Kullgren,rule of law,Mentions_Topic,1,speaker,topic
+Pierre Larrouturou,climate action,Mentions_Topic,1,speaker,topic
+Pierre Larrouturou,cost of living,Mentions_Topic,1,speaker,topic
+Pierre Larrouturou,speculation tax,Mentions_Topic,1,speaker,topic
+Pierrette Herzberger-Fofana,arbitrary detentions,Mentions_Topic,1,speaker,topic
+Pierrette Herzberger-Fofana,human rights abuses,Mentions_Topic,1,speaker,topic
+Pierrette Herzberger-Fofana,political repression,Mentions_Topic,1,speaker,topic
+Pilar del Castillo Vera,data regulation,Mentions_Topic,1,speaker,topic
+Pilar del Castillo Vera,eu competitiveness,Mentions_Topic,1,speaker,topic
+Pilar del Castillo Vera,industrial data,Mentions_Topic,1,speaker,topic
+Pina Picierno,disinformation,Mentions_Topic,1,speaker,topic
+Pina Picierno,electoral integrity,Mentions_Topic,1,speaker,topic
+Pina Picierno,foreign interference,Mentions_Topic,1,speaker,topic
+Rainer Wieland,european parliament,Mentions_Topic,1,speaker,topic
+Rainer Wieland,parliamentary session,Mentions_Topic,1,speaker,topic
+Rainer Wieland,session interruption,Mentions_Topic,1,speaker,topic
+Raphaël Glucksmann,corruption,Mentions_Topic,1,speaker,topic
+Raphaël Glucksmann,democratic integrity,Mentions_Topic,1,speaker,topic
+Raphaël Glucksmann,foreign influence,Mentions_Topic,1,speaker,topic
+Reinhard Bütikofer,china policy,Mentions_Topic,1,speaker,topic
+Reinhard Bütikofer,economic de-risking,Mentions_Topic,1,speaker,topic
+Reinhard Bütikofer,human rights,Mentions_Topic,1,speaker,topic
+Roberta Metsola,agenda changes,Mentions_Topic,1,speaker,topic
+Roberta Metsola,assange extradition,Mentions_Topic,1,speaker,topic
+Roberta Metsola,julian assange,Mentions_Topic,1,speaker,topic
+Roberta Metsola,parliamentary session,Mentions_Topic,1,speaker,topic
+Roberta Metsola,session resumption,Mentions_Topic,1,speaker,topic
+Roberta Metsola,the vote,Mentions_Topic,1,speaker,topic
+Roberts Zīle,parliamentary procedures,Mentions_Topic,1,speaker,topic
+Roberts Zīle,vote,Mentions_Topic,1,speaker,topic
+Roberts Zīle,written notifications,Mentions_Topic,1,speaker,topic
+Rosa D'Amato,carbon pricing,Mentions_Topic,1,speaker,topic
+Rosa D'Amato,energy transition,Mentions_Topic,1,speaker,topic
+Rosa D'Amato,social justice,Mentions_Topic,1,speaker,topic
+Salvatore De Meo,family rights,Mentions_Topic,1,speaker,topic
+Salvatore De Meo,national issues,Mentions_Topic,1,speaker,topic
+Salvatore De Meo,political instrumentalization,Mentions_Topic,1,speaker,topic
+Sara Cerdas,covid-19 pandemic,Mentions_Topic,1,speaker,topic
+Sara Cerdas,democratic resilience,Mentions_Topic,1,speaker,topic
+Sara Cerdas,european response,Mentions_Topic,1,speaker,topic
+Seán Kelly,european works councils,Mentions_Topic,1,speaker,topic
+Seán Kelly,industrial relations,Mentions_Topic,1,speaker,topic
+Seán Kelly,worker representation,Mentions_Topic,1,speaker,topic
+Stanislav Polčák,extremist violence,Mentions_Topic,1,speaker,topic
+Stanislav Polčák,right-wing extremism,Mentions_Topic,1,speaker,topic
+Stanislav Polčák,threats to democracy,Mentions_Topic,1,speaker,topic
+Tatjana Ždanoka,eu's stance on minorities,Mentions_Topic,1,speaker,topic
+Tatjana Ždanoka,latvian language policy,Mentions_Topic,1,speaker,topic
+Tatjana Ždanoka,minority rights,Mentions_Topic,1,speaker,topic
+Tiemo Wölken,antibiotic use,Mentions_Topic,1,speaker,topic
+Tiemo Wölken,antimicrobial resistance,Mentions_Topic,1,speaker,topic
+Tiemo Wölken,medical research,Mentions_Topic,1,speaker,topic
+Tomas Tobé,member state cooperation,Mentions_Topic,1,speaker,topic
+Tomas Tobé,migration crisis,Mentions_Topic,1,speaker,topic
+Tomas Tobé,migration policy,Mentions_Topic,1,speaker,topic
+Tonino Picula,strategic dependencies,Mentions_Topic,1,speaker,topic
+Tonino Picula,supply chains,Mentions_Topic,1,speaker,topic
+Tonino Picula,trade agreement,Mentions_Topic,1,speaker,topic
+Ulrike Müller,consumer information,Mentions_Topic,1,speaker,topic
+Ulrike Müller,green claims,Mentions_Topic,1,speaker,topic
+Ulrike Müller,sme support,Mentions_Topic,1,speaker,topic
+Vilija Blinkevičiūtė,minimum income systems,Mentions_Topic,1,speaker,topic
+Vilija Blinkevičiūtė,poverty,Mentions_Topic,1,speaker,topic
+Vilija Blinkevičiūtė,social exclusion,Mentions_Topic,1,speaker,topic
+Vincenzo Sofo,gender ideology,Mentions_Topic,1,speaker,topic
+Vincenzo Sofo,lgbt agenda,Mentions_Topic,1,speaker,topic
+Vincenzo Sofo,violence against women,Mentions_Topic,1,speaker,topic
+Vlad-Marius Botoş,economic development,Mentions_Topic,1,speaker,topic
+Vlad-Marius Botoş,healthy food access,Mentions_Topic,1,speaker,topic
+Vlad-Marius Botoş,social support programs,Mentions_Topic,1,speaker,topic
+Yana Toom,istanbul convention,Mentions_Topic,1,speaker,topic
+Yana Toom,victim support,Mentions_Topic,1,speaker,topic
+Yana Toom,violence against women,Mentions_Topic,1,speaker,topic
+Ylva Johansson,fighting human smuggling,Mentions_Topic,1,speaker,topic
+Ylva Johansson,irregular migration,Mentions_Topic,1,speaker,topic
+Ylva Johansson,migration policy,Mentions_Topic,1,speaker,topic
+Zbigniew Kuźmiuk,agricultural sector,Mentions_Topic,1,speaker,topic
+Zbigniew Kuźmiuk,carbon border adjustment mechanism,Mentions_Topic,1,speaker,topic
+Zbigniew Kuźmiuk,emissions trading system,Mentions_Topic,1,speaker,topic
+Özlem Demirel,corporate responsibility,Mentions_Topic,1,speaker,topic
+Özlem Demirel,global supply chains,Mentions_Topic,1,speaker,topic
+Özlem Demirel,workers' rights,Mentions_Topic,1,speaker,topic
+Željana Zovko,eu foreign policy,Mentions_Topic,1,speaker,topic
+Željana Zovko,european security,Mentions_Topic,1,speaker,topic
+Željana Zovko,western balkans,Mentions_Topic,1,speaker,topic

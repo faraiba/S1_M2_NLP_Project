@@ -1,0 +1,21 @@
+# Core libraries
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.2
+
+# NLP + datasets
+datasets==2.17.1
+scikit-learn==1.4.1
+umap-learn==0.5.5
+tqdm==4.66.2
+pydantic==2.6.1
+python-dotenv==1.0.1
+
+# LLM clients
+google-generativeai==0.3.2
+openai==1.12.0   # used for Gemini OpenAI-compatible endpoint
+
+# Graph visualization / analysis
+networkx==3.2.1
+pyvis==0.3.2
+plotly==5.18.0
